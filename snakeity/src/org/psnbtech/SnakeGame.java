@@ -6,7 +6,7 @@ import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 import java.util.LinkedList;
 import java.util.Random;
-// bing chilling
+// bruh bruh bruh
 import javax.swing.JFrame;
 
 /**
