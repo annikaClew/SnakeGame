@@ -1,13 +1,13 @@
 package org.psnbtech;
-//adding changes
+
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Font;
 import java.awt.Graphics;
 import java.awt.Point;
-
+//please
 import javax.swing.JPanel;
-//testing hehe
+
 /**
  * The {@code BoardPanel} class is responsible for managing and displaying the
  * contents of the game board.
