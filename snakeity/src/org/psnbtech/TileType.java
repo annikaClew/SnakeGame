@@ -1,5 +1,5 @@
 package org.psnbtech;
-// :((((((((((
+// fuck this bullshit 
 /**
  * The {@code TileType} class represents the different
  * types of tiles that can be displayed on the screen.
