@@ -12,9 +12,8 @@
           <version>4.13.2</version>
           <scope>test</scope>
       </dependency>
-  </dependencies>
-    
-    <sourceDirectory>src</sourceDirectory>
+  </dependencies>  
+  <!--  <sourceDirectory>src</sourceDirectory>
     <resources>
       <resource>
         <directory>src</directory>
@@ -32,5 +31,5 @@
         </configuration>
       </plugin>
     </plugins>
-  </build>
+  </build> -->
 </project>
