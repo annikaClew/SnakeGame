@@ -5,7 +5,7 @@ import java.awt.Dimension;
 import java.awt.Font;
 import java.awt.Graphics;
 import java.awt.Point;
-//please work please work
+// hello world
 import javax.swing.JPanel;
 
 /**
