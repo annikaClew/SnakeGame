@@ -42,7 +42,8 @@ public class SnakeGameTest {
     public void isPaused() {
         SnakeGame g = new SnakeGame();
         boolean test = g.isPaused();
-        assertFalse(test);
+        // changing the test
+        assertFalse(true);
     }
     
     @org.junit.Test
