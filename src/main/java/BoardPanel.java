@@ -5,7 +5,7 @@ import java.awt.Dimension;
 import java.awt.Font;
 import java.awt.Graphics;
 import java.awt.Point;
-// testing testing
+// testing testing testing
 import javax.swing.JPanel;
 
 /**
