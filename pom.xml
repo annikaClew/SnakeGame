@@ -14,8 +14,8 @@
   </dependencies>
   
   <build>
-  <sourceDirectory>src</sourceDirectory>
-  <testSourceDirectory>SnakeGame/snakeity/src/tests/</testSourceDirectory>
+  <sourceDirectory>SnakeGame</sourceDirectory>
+  <testSourceDirectory>SnakeGame/snakeity/src/tests</testSourceDirectory>
     <resources>
       <resource>
         <directory>src</directory>
