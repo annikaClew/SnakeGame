@@ -3,19 +3,8 @@
   <groupId>snakeity</groupId>
   <artifactId>snakeity</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  
-   <dependencies>
-      <dependency>
-          <groupId>junit</groupId>
-          <artifactId>junit</artifactId>
-          <version>4.13.2</version>
-          <scope>test</scope>
-      </dependency>
-  </dependencies>
-  
   <build>
-  <sourceDirectory>SnakeGame/snakeity/src</sourceDirectory>
-  <testSourceDirectory>SnakeGame/snakeity/src/tests</testSourceDirectory>
+    <sourceDirectory>src</sourceDirectory>
     <resources>
       <resource>
         <directory>src</directory>
